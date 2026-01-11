@@ -27,9 +27,6 @@ Examples
 Input: 0
 Output: ศูนย์บาทถ้วน
 
-Input: 0.5
-Output: ศูนย์บาทห้าสตางค์
-
 Input: 100
 Output: หนึ่งร้อยบาทถ้วน
 
@@ -69,8 +66,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/anikSomjitchob/convertNumberToTHB-text.git
+cd convertNumberToTHB-text
 
 Install dependencies:
 
